@@ -1,0 +1,76 @@
+[{
+  "code": "002656", 
+  "name": "南方创业板ETF联接A", 
+  "rate": 0.03, 
+  "initCaptital": 324.65
+},{
+  "code": "160119", 
+  "name": "南方中证500ETF联接(LOF)A", 
+  "rate": 0.06, 
+  "initCaptital": 888.57
+},{
+  "code": "163407", 
+  "name": "兴全沪深300增强A", 
+  "rate": 0.12, 
+  "initCaptital": 1114.8
+},{
+  "code": "164906", 
+  "name": "交银中证海外中国互联网指数(LOF)A", 
+  "rate": 0.03, 
+  "initCaptital": 30
+},{
+  "code": "000942", 
+  "name": "广发信息技术联接A", 
+  "rate": 0.03, 
+  "initCaptital": 29.96
+},{
+  "code": "000248", 
+  "name": "汇添富中证主要消费ETF联接A", 
+  "rate": 0.03, 
+  "initCaptital": 29.97
+},{
+  "code": "013302", 
+  "name": "招商中证科创创业50ETF联接A", 
+  "rate": 0.03, 
+  "initCaptital": 29.97
+},{
+  "code": "001180", 
+  "name": "广发医药卫生联接A", 
+  "rate": 0.03, 
+  "initCaptital": 29.97
+},{
+  "code": "003318", 
+  "name": "景顺长城中证500行业中性低波动指数A", 
+  "rate": 0.09, 
+  "initCaptital": 89.89
+},{
+  "code": "090010", 
+  "name": "大成中证红利指数A", 
+  "rate": 0.15, 
+  "initCaptital": 1168.07
+},{
+  "code": "007169", 
+  "name": "易方达中债1-3年国开行债券指数A", 
+  "rate": 0.1, 
+  "initCaptital": 1165.29
+},{
+  "code": "000191", 
+  "name": "富国信用债债券A", 
+  "rate": 0.1, 
+  "initCaptital": 1208.53
+},{
+  "code": "040046", 
+  "name": "华安纳斯达克100ETF联接QDII", 
+  "rate": 0.04, 
+  "initCaptital": 346.11
+},{
+  "code": "050025", 
+  "name": "博时标普500ETF联接QDII", 
+  "rate": 0.1, 
+  "initCaptital": 851.75
+},{
+  "code": "100050", 
+  "name": "富国全球债券QDII", 
+  "rate": 0.06, 
+  "initCaptital": 495.07
+}]

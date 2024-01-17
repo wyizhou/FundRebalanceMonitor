@@ -1,0 +1,3 @@
+headers = ""
+url_Template = 'https://api.fund.eastmoney.com/f10/lsjz?callback=jQuery18304533129151966697_1704854026765&fundCode=$code&pageIndex=1&pageSize=20&startDate=&endDate=&_=1704854076477'
+rebalanceRate = 0.03
